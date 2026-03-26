@@ -149,8 +149,16 @@ CALCULATE(
 
 ### Visão Geral
 ![Mapa](images/mapa.png)
-![Mapa](images/regional.png)
-![Mapa](images/municipio.png)
+
+---
+### Regional
+![Mapa](images/regionais.png)
+
+---
+
+### Município
+![Mapa](images/municipios.png)
+
 ---
 
 ## 🚀 Aplicação Prática
