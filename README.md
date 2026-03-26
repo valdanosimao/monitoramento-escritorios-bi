@@ -149,7 +149,8 @@ CALCULATE(
 
 ### Visão Geral
 ![Mapa](images/mapa.png)
-
+![Mapa](images/regional.png)
+![Mapa](images/municipio.png)
 ---
 
 ## 🚀 Aplicação Prática
