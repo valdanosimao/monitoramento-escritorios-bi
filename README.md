@@ -152,7 +152,7 @@ CALCULATE(
 
 ---
 ### Regional
-![Mapa](images/regionail.png)
+![Mapa](images/regional.png)
 
 ---
 
