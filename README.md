@@ -152,12 +152,12 @@ CALCULATE(
 
 ---
 ### Regional
-![Mapa](images/regionais.png)
+![Mapa](images/regionail.png)
 
 ---
 
 ### Município
-![Mapa](images/municipios.png)
+![Mapa](images/municipio.png)
 
 ---
 
