@@ -171,6 +171,10 @@ Projeto focado em análise geoespacial, transformando dados de endereço em info
 
 ## 📥 Download do Projeto
 
+O arquivo Power BI (.pbix) pode ser baixado aqui:
+
+👉 https://github.com/valdanosimao/monitoramento-escritorios-bi/releases/download/v1.0/ESCRITORIOS_ADAGRO.pbix
+
 ...
 
 ---
