@@ -118,7 +118,7 @@ CALCULATE (
 
 ## 🔒 Sobre os dados
 
-Endereços e telefones são das unidades públicas da ADAGRO, informação de atendimento ao cidadão. O arquivo `.pbix` está na [release v1.0](https://github.com/valdanosimao/monitoramento-escritorios-bi/releases/tag/v1.0).
+Os endereços são das unidades públicas da ADAGRO. Nos prints, os nomes dos responsáveis e os telefones foram desfocados para preservar a privacidade dos servidores. O arquivo `.pbix` está na [release v1.0](https://github.com/valdanosimao/monitoramento-escritorios-bi/releases/tag/v1.0).
 
 ---
 
